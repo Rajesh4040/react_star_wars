@@ -6,7 +6,7 @@ React Sample code examples
 
 Get the source code
 
-#### `git clone https://github.com/Rajesh4040/StarWars`
+#### `git clone https://github.com/Rajesh4040/react_star_wars`
 
 Install project dependency, by running:
 
