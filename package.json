@@ -2,7 +2,7 @@
     "name": "react-star-wars",
     "version": "0.1.0",
     "private": true,
-    "homepage": "http://Rajesh4040.github.io",
+    "homepage": "http://Rajesh4040.github.io/react_star_wars",
     "devDependencies": {
         "babel-jest": "^21.0.2",
         "babel-preset-es2015": "^6.24.1",
